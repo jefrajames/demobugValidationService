@@ -20,7 +20,7 @@ Anyway I guess this kind of workaround should not be required.
 
 == Environmennt
 
-. macOS 10.13.6
-. OpenJDK 11.0.7
-. GraalVM CE 20.20.0
-. Maven 3.6.3
+* macOS 10.13.6
+* OpenJDK 11.0.7
+* GraalVM CE 20.20.0
+* Maven 3.6.3
